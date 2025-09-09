@@ -205,7 +205,7 @@ Esta sección del laboratorio se centra en la aplicación de la **correlación c
   x2[nTs] = sin(2π * 100 * nTs) = sin(n * π/4)
 
 ### 2. Correlación Cruzada
-### 3.¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales?
+### 3. ¿En qué situaciones resulta útil aplicar la correlación cruzada en el procesamiento digital de señales?
 
 # Parte C
 ## Resumen 
