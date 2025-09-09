@@ -211,7 +211,3 @@ Esta sección del laboratorio se centra en la aplicación de la **correlación c
 ## Resumen 
 Esta sección del laboratorio se centra en la **convolución** y la **correlación cruzada**, específicamente su relación con la simetría de las señales. Se examina cómo el orden de las señales afecta los resultados de la convolución y cómo la correlación cruzada está intrínsecamente ligada a la convolución de una señal invertida en el tiempo. El objetivo principal es validar la **propiedad conmutativa de la convolución** y demostrar la conexión entre ambas operaciones.
 
-
-# PARTE C
-
-## Resumen
