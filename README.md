@@ -34,9 +34,15 @@ Las señales de entrada, **$x[n]$** y **$h[n]$**, se definieron usando los dígi
 
 Se generaron las representaciones gráficas y secuenciales de las señales originales ($x[n]$, $h[n]$) y de la señal resultante ($y[n]$). Este paso se realizó a mano para visualizar el desplazamiento y la superposición de las señales.
 
-- **Gráfica señal $y[n]$**: María José 
-- **Gráfica señal $y[n]$**: Valentina 
+- **Gráfica señal $y[n]$**: María José
+  ![conv majo a mano](https://github.com/user-attachments/assets/3b62d600-5d17-4355-b457-d766a14de749)
+
+- **Gráfica señal $y[n]$**: Valentina
+  ![conv vale a mano](https://github.com/user-attachments/assets/fce6176d-1b8e-49ad-932e-ab8a7b29ed86)
+
 - **Gráfica señal $y[n]$**: Lina
+  ![conv lina a mano](https://github.com/user-attachments/assets/514129b4-bbf1-4e4d-9e9f-46781c67801a)
+
 
 ### 3. Verificación Computacional con Python
 
